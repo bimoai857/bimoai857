@@ -7,7 +7,7 @@
   <img src='https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif' height=30% width=30%></a>
 </p></a>
  
- 
+
  I'm Bimochan Shrestha. A Machine Learning Enthusiast trying to excel human experience with Machine Learning and AI.
  
  
@@ -19,8 +19,8 @@
 
  
 #### Github Stats
-
-[![Bimochan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bimoai857&hide=contribs,prs,issues)](https://github.com/bimoai857/github-readme-stats)
+| <a href="https://github.com/bimoai857/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bimoai857&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bimochan's github stats" /></a> | <a href="https://github.com/bimoai857/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimoai857&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 </div>
