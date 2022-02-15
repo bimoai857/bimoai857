@@ -1,13 +1,16 @@
  <div align='center'>
+
  ## 1. Hi I'm Bimochan 
+<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
  <p> <a href='#'>
   <img src='https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif' height=30% width=30%></a>
 </p></a>
  
+ 
  I'm Bimochan Shrestha. A Machine Learning Enthusiast trying to excel human experience with Machine Learning and AI.
  
- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+ 
 
 
 :mailbox: Reach me out!
