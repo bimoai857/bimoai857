@@ -8,7 +8,7 @@
 </p></a>
  
 
- I'm Bimochan Shrestha. A Machine Learning Enthusiast trying to excel human experience with Machine Learning and AI.
+ I'm Bimochan Shrestha. A Machine Learning Enthusiast trying to elevate human experience with Machine Learning and AI.
  
  
 
